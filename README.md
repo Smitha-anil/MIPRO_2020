@@ -1,2 +1,2 @@
 # MIPRO_2020
-fluid segmentation in OCT images
+fluid segmentation in retinal OCT images
